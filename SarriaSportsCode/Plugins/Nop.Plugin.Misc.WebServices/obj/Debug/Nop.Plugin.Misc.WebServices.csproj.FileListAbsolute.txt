@@ -1,0 +1,8 @@
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

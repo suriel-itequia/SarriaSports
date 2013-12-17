@@ -1,0 +1,6 @@
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

@@ -1,0 +1,8 @@
+D:\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+D:\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+D:\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+D:\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+D:\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+D:\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+D:\SarriaSportsCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+D:\SarriaSportsCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

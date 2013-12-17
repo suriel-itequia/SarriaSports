@@ -1,0 +1,6 @@
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csprojResolveAssemblyReference.cache
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

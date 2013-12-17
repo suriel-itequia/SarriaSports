@@ -1,0 +1,6 @@
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Description.txt
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.dll
+D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.pdb
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.csprojResolveAssemblyReference.cache
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.dll
+D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.pdb

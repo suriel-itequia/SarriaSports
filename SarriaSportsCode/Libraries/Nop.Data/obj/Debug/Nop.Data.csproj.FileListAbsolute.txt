@@ -1,0 +1,15 @@
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Nop.Data.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Nop.Data.pdb
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\EntityFramework.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Nop.Core.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\System.Data.SqlServerCe.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\System.Data.SqlServerCe.Entity.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Autofac.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Autofac.Integration.Mvc.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Nop.Core.pdb
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\EntityFramework.xml
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Autofac.xml
+D:\SarriaSportsCode\Libraries\Nop.Data\bin\Debug\Autofac.Integration.Mvc.xml
+D:\SarriaSportsCode\Libraries\Nop.Data\obj\Debug\Nop.Data.csprojResolveAssemblyReference.cache
+D:\SarriaSportsCode\Libraries\Nop.Data\obj\Debug\Nop.Data.dll
+D:\SarriaSportsCode\Libraries\Nop.Data\obj\Debug\Nop.Data.pdb
