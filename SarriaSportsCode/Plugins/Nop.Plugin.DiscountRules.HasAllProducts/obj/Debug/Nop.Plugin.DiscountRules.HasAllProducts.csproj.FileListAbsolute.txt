@@ -4,3 +4,9 @@ D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\No
 D:\SarriaSportsCode\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csprojResolveAssemblyReference.cache
 D:\SarriaSportsCode\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.dll
 D:\SarriaSportsCode\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Description.txt
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.pdb

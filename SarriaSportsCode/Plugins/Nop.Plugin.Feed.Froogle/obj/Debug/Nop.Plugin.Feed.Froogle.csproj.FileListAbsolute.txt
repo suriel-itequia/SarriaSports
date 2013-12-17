@@ -5,3 +5,10 @@ D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Fr
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

@@ -4,3 +4,9 @@ D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plu
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb

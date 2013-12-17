@@ -5,3 +5,10 @@ D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugi
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

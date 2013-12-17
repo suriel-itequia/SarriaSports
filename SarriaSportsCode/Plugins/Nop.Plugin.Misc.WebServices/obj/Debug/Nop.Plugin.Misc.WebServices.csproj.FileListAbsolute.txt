@@ -6,3 +6,11 @@ D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Mis
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

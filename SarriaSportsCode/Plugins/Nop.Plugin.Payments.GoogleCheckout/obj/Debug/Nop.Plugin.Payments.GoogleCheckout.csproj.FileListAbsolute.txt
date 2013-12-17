@@ -4,3 +4,9 @@ D:\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Nop.Plu
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.csprojResolveAssemblyReference.cache
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.dll
 D:\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Description.txt
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.GoogleCheckout\Nop.Plugin.Payments.GoogleCheckout.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.GoogleCheckout\obj\Debug\Nop.Plugin.Payments.GoogleCheckout.pdb
