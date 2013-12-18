@@ -1,0 +1,46 @@
+@model InfoBlockModel
+@using Nop.Web.Models.Common;
+<div class="block block-info">
+    <div class="title">
+        <strong>@T("Information")</strong>
+    </div>
+    <div class="listbox">
+        <ul class="list">
+            @Html.Widget("infoblock_before")
+            <li><a href="@Url.RouteUrl("ContactUs")"><i class="fa-check"></i> @T("ContactUs")</a> </li>
+            <li><a href="@Url.RouteUrl("Topic", new { SystemName = "aboutus" })"><i class="fa-check"></i> @T("AboutUs")</a></li>
+            @if (Model.NewsEnabled)
+            {
+                <li><a href="@Url.RouteUrl("NewsArchive")"><i class="fa-check"></i> @T("News")</a></li>
+            }
+            @if (Model.BlogEnabled)
+            {
+                <li><a href="@Url.RouteUrl("Blog")"><i class="fa-check"></i> @T("Blog")</a></li>
+            }
+            @if (Model.ForumEnabled)
+            {
+                <li><a href="@Url.RouteUrl("Boards")"><i class="fa-check"></i> @T("Forum.Forums")</a></li>
+            }
+            @if (Model.RecentlyAddedProductsEnabled)
+            {
+                <li ><a href="@Url.RouteUrl("RecentlyAddedProducts")"><i class="fa-check"></i> @T("Products.NewProducts")</a></li>
+            }
+            @if (Model.RecentlyViewedProductsEnabled)
+            {
+                <li ><a href="@Url.RouteUrl("RecentlyViewedProducts")"><i class="fa-check"></i> @T("Products.RecentlyViewedProducts")</a></li>
+            }
+            @if (Model.CompareProductsEnabled)
+            {
+                <li ><a href="@Url.RouteUrl("CompareProducts")"><i class="fa-check"></i> @T("Products.Compare.List")</a></li>            
+            }
+            @if (Model.SitemapEnabled)
+            {
+                <li><a href="@Url.RouteUrl("Sitemap")"> <i class="fa-check"></i> @T("Sitemap")</a></li>
+            }
+            <li><a href="@Url.RouteUrl("Topic", new { SystemName = "shippinginfo" })"><i class="fa-check"></i> @T("ShippingReturns")</a></li>
+            <li><a href="@Url.RouteUrl("Topic", new { SystemName = "privacyinfo" })"><i class="fa-check"></i> @T("PrivacyNotice")</a></li>
+            <li><a href="@Url.RouteUrl("Topic", new { SystemName = "conditionsofUse" })"><i class="fa-check"></i> @T("ConditionsOfUse")</a></li>
+            @Html.Widget("infoblock_after")
+        </ul>
+    </div>
+</div>

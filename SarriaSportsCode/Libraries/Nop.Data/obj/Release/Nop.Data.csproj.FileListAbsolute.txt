@@ -1,0 +1,15 @@
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Nop.Data.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Nop.Data.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\EntityFramework.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Nop.Core.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\System.Data.SqlServerCe.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\System.Data.SqlServerCe.Entity.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Autofac.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Nop.Core.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\EntityFramework.xml
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Autofac.xml
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.xml
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\obj\Release\Nop.Data.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\obj\Release\Nop.Data.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Libraries\Nop.Data\obj\Release\Nop.Data.pdb

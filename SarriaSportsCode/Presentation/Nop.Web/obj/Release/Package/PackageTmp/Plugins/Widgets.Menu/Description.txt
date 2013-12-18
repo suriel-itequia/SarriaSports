@@ -1,0 +1,8 @@
+Group: Widgets
+FriendlyName: Menu
+SystemName: Widgets.Menu
+Version: 1.30
+SupportedVersions: 3.10
+Author: Krzysztof Pajak nop4you
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.Menu.dll

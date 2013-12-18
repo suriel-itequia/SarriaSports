@@ -1,0 +1,36 @@
+@{
+    Layout = "~/Views/Shared/_Root.Head.cshtml";
+}
+@Html.Widget("body_start_html_tag_after")
+@Html.Partial("_Notifications")
+@Html.Action("AdminHeaderLinks", "Common")
+<div class="master-wrapper-page">
+    @Html.Action("JavaScriptDisabledWarning", "Common")
+    <div class="master-wrapper-content">
+        <script type="text/javascript">
+            AjaxCart.init(false, '.cart-qty', '.header-links .wishlist-qty', '#flyout-cart');
+        </script>
+        @Html.Partial("Header")
+        <div class="header-menu @*nav-bar bg-color-green*@">
+            @Html.Widget("content_before")
+@*            <ul> 
+                <li><a href="/">Kategoria 1</a></li>
+                <li><a href="/">Kategoria 2</a></li>
+                <li><a href="/">Kategoria 3</a></li>
+            </ul>*@
+        </div>
+       
+        @*ajax loading window*@
+        <div class="ajax-loading-block-window" style="display: none">
+            <div class="loading-image">
+            </div>
+        </div>
+        <div class="master-wrapper-main">
+            @RenderBody()
+        </div>
+        @Html.Widget("content_after")
+        @Html.Action("EuCookieLaw", "Common")
+    </div>
+  
+</div>    @Html.Action("Footer", "Common")
+@Html.Widget("body_end_html_tag_before")

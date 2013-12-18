@@ -1,0 +1,21 @@
+#facebox-like-box {
+   position: fixed;
+   right: -292px;
+   top: 230px;
+   background: #FFFFFF;
+   z-index: 99999;
+}
+
+#facebox-like-box img.button {
+display: block;
+left: -31px;
+position: absolute;
+cursor: pointer;
+}
+
+#fb {
+margin: 0px;
+position: static;
+overflow: hidden;
+    right: -300px;
+}

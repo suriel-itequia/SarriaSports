@@ -1,0 +1,12 @@
+﻿1. Skopiuj pliki do katalogu z pluginami
+2. Zainstaluj plugin:
+ a) wejdź do administracji -> Konfiguracja -> Pluginy 
+ b) Odświerz listę pluginów 
+ c) Znajdz plugin o nazwie Menu i kliknij Instaluj
+ d) wejdź do administracji -> Zarzadzanie zawartoscia -> Widget -> Ustaw opcję Aktywny
+
+W plikach z szablonem THEMES\SZABLON\Views\
+
+Skopiuj plik HeaderMenu.CSHTM do katalogu THEMES\SZABLON\Views\Shared\
+Skopiuj plik Menu.CSHTM do katalogu THEMES\SZABLON\Views\Common\
+

@@ -12,6 +12,5 @@ D:\GitPersonal\SarriaSports\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\nunit.fra
 D:\GitPersonal\SarriaSports\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
 D:\GitPersonal\SarriaSports\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
 D:\GitPersonal\SarriaSports\SarriaSportsCode\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
-D:\GitPersonal\SarriaSports\SarriaSportsCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
 D:\GitPersonal\SarriaSports\SarriaSportsCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
 D:\GitPersonal\SarriaSports\SarriaSportsCode\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

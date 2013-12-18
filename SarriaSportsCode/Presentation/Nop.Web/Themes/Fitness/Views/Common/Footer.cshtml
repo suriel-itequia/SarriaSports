@@ -1,0 +1,49 @@
+﻿@model FooterModel
+@using Nop.Web.Models.Common;
+
+<div class="footer">
+    <div class="container">
+        <div class="footer-menus">
+            <div class="col-3">
+                <div class="title">@T("findus")</div>
+                <ul class="icon">
+                    <li><a href="@T("link.facebook")"><i class="fa fa-facebook-square"></i></a></li>
+                    <li><a href="@T("link.twitter")"><i class="fa fa-twitter-square"></i></a></li>
+                    <li><a href="@T("link.googleplus")"><i class="fa fa-google-plus-square"></i></a></li>
+                    <li><a href="@T("link.youtube")"><i class="fa fa-youtube-square"></i></a></li>
+                </ul>
+                <ul>
+                    <li><a href="@Url.RouteUrl("NewsArchive")" class="fa-bullhorn">@T("News")</a></li>
+                    <li><a href="@Url.RouteUrl("RecentlyAddedProducts")" class="fa-list">@T("Products.NewProducts")</a></li>
+                </ul>
+                 
+                
+            </div>
+            <div class="col-3">
+                <div class="title">@T("company")</div>
+                <ul>
+                    <li><a href="@Url.RouteUrl("ContactUs")" class="fa-envelope">@T("ContactUs")</a> </li>
+                    <li><a href="@Url.RouteUrl("Topic", new { SystemName = "aboutus" })"  class="fa-info">@T("AboutUs")</a></li>
+                    <li><a href="@Url.RouteUrl("Topic", new { SystemName = "shippinginfo" })" class="fa-truck">@T("ShippingReturns")</a></li>
+                    <li><a href="@Url.RouteUrl("Topic", new { SystemName = "privacyinfo" })" class="fa-reorder">@T("PrivacyNotice")</a></li>
+                    <li><a href="@Url.RouteUrl("Topic", new { SystemName = "conditionsofUse" })" class="fa-reorder">@T("ConditionsOfUse")</a></li>
+                </ul>
+               
+            </div>
+
+            <div class="col-4">
+                @Html.Action("NewsletterBox", "Newsletter")
+
+
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <div class="footer-poweredby">
+            Designed by <a href="http://nop4you.com/">nop4you.com</a>, powered by <a href="http://www.nopcommerce.pl/">nopCommerce</a> 
+        </div>
+        @Html.Action("ChangeDeviceBlock", "Common")
+        @Html.Widget("footer")
+
+    </div>
+</div>

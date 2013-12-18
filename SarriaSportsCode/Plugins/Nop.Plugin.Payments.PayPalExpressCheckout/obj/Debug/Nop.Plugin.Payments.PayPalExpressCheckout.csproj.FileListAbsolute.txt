@@ -1,0 +1,16 @@
+D:\work\customization_projects\inprogress\1191\Project\src\Plugins\Nop.Plugin.Payments.PayPalExpressCheckout\obj\Debug\Nop.Plugin.Payments.PayPalExpressCheckout.csprojResolveAssemblyReference.cache
+D:\work\customization_projects\inprogress\1191\Project\src\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Description.txt
+D:\work\customization_projects\inprogress\1191\Project\src\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Images\mobile-checkout.png
+D:\work\customization_projects\inprogress\1191\Project\src\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Nop.Plugin.Payments.PayPalExpressCheckout.dll.config
+D:\work\customization_projects\inprogress\1191\Project\src\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Nop.Plugin.Payments.PayPalExpressCheckout.dll
+D:\work\customization_projects\inprogress\1191\Project\src\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Nop.Plugin.Payments.PayPalExpressCheckout.pdb
+D:\work\customization_projects\inprogress\1191\Project\src\Plugins\Nop.Plugin.Payments.PayPalExpressCheckout\obj\Debug\Nop.Plugin.Payments.PayPalExpressCheckout.dll
+D:\work\customization_projects\inprogress\1191\Project\src\Plugins\Nop.Plugin.Payments.PayPalExpressCheckout\obj\Debug\Nop.Plugin.Payments.PayPalExpressCheckout.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Description.txt
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Images\mobile-checkout.png
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Nop.Plugin.Payments.PayPalExpressCheckout.dll.config
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Nop.Plugin.Payments.PayPalExpressCheckout.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Presentation\Nop.Web\Plugins\Payments.PayPalExpressCheckout\Nop.Plugin.Payments.PayPalExpressCheckout.pdb
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.PayPalExpressCheckout\obj\Debug\Nop.Plugin.Payments.PayPalExpressCheckout.csprojResolveAssemblyReference.cache
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.PayPalExpressCheckout\obj\Debug\Nop.Plugin.Payments.PayPalExpressCheckout.dll
+D:\GitPersonal\SarriaSports\SarriaSportsCode\Plugins\Nop.Plugin.Payments.PayPalExpressCheckout\obj\Debug\Nop.Plugin.Payments.PayPalExpressCheckout.pdb

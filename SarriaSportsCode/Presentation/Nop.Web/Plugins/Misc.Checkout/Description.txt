@@ -1,0 +1,8 @@
+﻿Group: Checkout
+FriendlyName: One Page Checkout
+SystemName: Misc.Checkout
+Version: 1.5
+SupportedVersions: 3.10
+Author: Krzysztof Pajak nopCommerce
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.Checkout.dll

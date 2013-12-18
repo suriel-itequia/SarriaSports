@@ -1,0 +1,8 @@
+Group: Shipping rate computation
+FriendlyName: Shipping by total and Role
+SystemName: Shipping.ByTotalandRole
+Version: 1.13
+SupportedVersions: 3.10
+Author: 3x software
+DisplayOrder: 1
+FileName: Nop.Plugin.Shipping.ByTotalAndRole.dll

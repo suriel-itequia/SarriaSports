@@ -1,0 +1,102 @@
+﻿@model IList<CategoryModel>
+
+@using Nop.Web.Models.Catalog;
+@{var i = 1;}
+
+ <script> 
+     $(function() {
+    $(".hp-category li.l1").mouseenter(function () {
+        $(".desc.b1").switchClass("blank", "grey", 200);
+return false;
+     });
+
+    $(".hp-category li.l1").mouseleave(function () {
+        $(".desc.b1").switchClass("grey", "blank", 100);
+        return false;
+    });
+
+    $(".hp-category li.l2").mouseenter(function () {
+        $(".desc.b2").switchClass("blank", "grey", 200);
+        return false;
+    });
+
+    $(".hp-category li.l2").mouseleave(function () {
+        $(".desc.b2").switchClass("grey", "blank", 100);
+        return false;
+    });
+
+    $(".hp-category li.l3").mouseenter(function () {
+        $(".desc.b3").switchClass("blank", "grey", 200);
+        return false;
+    });
+
+    $(".hp-category li.l3").mouseleave(function () {
+        $(".desc.b3").switchClass("grey", "blank", 100);
+        return false;
+    });
+
+    $(".hp-category li.l4").mouseenter(function () {
+        $(".desc.b4").switchClass("blank", "grey", 200);
+        return false;
+    });
+
+    $(".hp-category li.l4").mouseleave(function () {
+        $(".desc.b4").switchClass("grey", "blank", 100);
+        return false;
+    });
+
+    $(".hp-category li.l5").mouseenter(function () {
+        $(".desc.b5").switchClass("blank", "grey", 200);
+        return false;
+    });
+
+    $(".hp-category li.l5").mouseleave(function () {
+        $(".desc.b5").switchClass("grey", "blank", 100);
+        return false;
+    });
+    $(".hp-category li.l6").mouseenter(function () {
+        $(".desc.b6").switchClass("blank", "grey", 200);
+        return false;
+    });
+
+    $(".hp-category li.l6").mouseleave(function () {
+        $(".desc.b6").switchClass("grey", "blank", 100);
+        return false;
+    });
+ });
+</script>
+
+
+@if (Model.Count > 0)
+{
+    <div class="hp-category">
+        <ul>
+
+
+        @foreach (var item in Model)
+        {
+            var color = "b"+i;
+            var number = "l" + i;
+            <li class="@number"> <a href="@Url.RouteUrl("Category", new { SeName = item.SeName })" title="@item.PictureModel.Title">
+            <div class="desc @color blank">
+               
+                @item.Name
+                    <i class="fa fa-arrow-circle-right"></i>  
+            </div>
+             
+            <img alt="@item.PictureModel.AlternateText" src="@item.PictureModel.ImageUrl"
+                                    title="@item.PictureModel.Title" />
+        </a>
+
+
+            </li>
+            
+            i++;
+        }
+
+
+
+            </ul>
+        <div class="clear"></div>
+    </div>
+}

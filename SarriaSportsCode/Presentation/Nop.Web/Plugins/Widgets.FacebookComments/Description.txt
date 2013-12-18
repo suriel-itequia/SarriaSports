@@ -1,0 +1,8 @@
+Group: Widgets
+FriendlyName: Facebook Comments
+SystemName: Widgets.FacebookComments
+Version: 1.00
+SupportedVersions: 3.10
+Author: nopCommerce/nop4you, Krzysztof Pajak
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.FacebookComments.dll

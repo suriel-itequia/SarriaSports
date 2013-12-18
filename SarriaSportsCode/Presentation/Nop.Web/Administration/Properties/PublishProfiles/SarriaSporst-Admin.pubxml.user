@@ -1,0 +1,1103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>07/26/2013 16:25:23</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>07/26/2013 16:25:17</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.Mvc.dll">
+      <publishTime>07/26/2013 16:25:17</publishTime>
+    </File>
+    <File Include="bin/AutoMapper.dll">
+      <publishTime>07/20/2011 17:57:22</publishTime>
+    </File>
+    <File Include="bin/de/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:17</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>07/26/2013 16:25:17</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>07/08/2013 13:10:33</publishTime>
+    </File>
+    <File Include="bin/es/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:17</publishTime>
+    </File>
+    <File Include="bin/FluentValidation.dll">
+      <publishTime>07/26/2013 16:25:17</publishTime>
+    </File>
+    <File Include="bin/fr/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/it/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>10/05/2011 15:04:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/26/2013 16:25:22</publishTime>
+    </File>
+    <File Include="bin/nl/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/Nop.Admin.dll">
+      <publishTime>12/17/2013 18:56:27</publishTime>
+    </File>
+    <File Include="bin/Nop.Core.dll">
+      <publishTime>12/17/2013 18:26:38</publishTime>
+    </File>
+    <File Include="bin/Nop.Data.dll">
+      <publishTime>12/17/2013 18:26:39</publishTime>
+    </File>
+    <File Include="bin/Nop.Services.dll">
+      <publishTime>12/17/2013 18:26:40</publishTime>
+    </File>
+    <File Include="bin/Nop.Services.XmlSerializers.dll">
+      <publishTime>12/17/2013 18:26:41</publishTime>
+    </File>
+    <File Include="bin/Nop.Web.Framework.dll">
+      <publishTime>12/17/2013 18:26:41</publishTime>
+    </File>
+    <File Include="bin/pl/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/pt/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/Recaptcha.dll">
+      <publishTime>07/26/2013 16:25:22</publishTime>
+    </File>
+    <File Include="bin/ru/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/sitemap.config">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="bin/sv/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>07/26/2013 16:25:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>07/26/2013 16:25:19</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>07/26/2013 16:25:19</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>07/26/2013 16:25:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>07/26/2013 16:25:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>07/26/2013 16:25:20</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.Mvc.dll">
+      <publishTime>07/26/2013 16:25:23</publishTime>
+    </File>
+    <File Include="bin/tr/FluentValidation.resources.dll">
+      <publishTime>07/26/2013 16:25:18</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>07/26/2013 16:25:23</publishTime>
+    </File>
+    <File Include="Content/farbtastic/farbtastic.css">
+      <publishTime>12/16/2012 16:58:54</publishTime>
+    </File>
+    <File Include="Content/farbtastic/marker.png">
+      <publishTime>12/16/2012 16:58:54</publishTime>
+    </File>
+    <File Include="Content/farbtastic/mask.png">
+      <publishTime>12/16/2012 16:58:54</publishTime>
+    </File>
+    <File Include="Content/farbtastic/wheel.png">
+      <publishTime>12/16/2012 16:58:54</publishTime>
+    </File>
+    <File Include="Content/fileuploader.css">
+      <publishTime>05/22/2012 23:57:26</publishTime>
+    </File>
+    <File Include="Content/images/1pix.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/active-false.gif">
+      <publishTime>09/06/2012 16:44:31</publishTime>
+    </File>
+    <File Include="Content/images/active-true.gif">
+      <publishTime>09/06/2012 16:44:31</publishTime>
+    </File>
+    <File Include="Content/images/admin-gvw-bg.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/admin-header-bg.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/admin-menu-bg.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ajax-loading.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/background.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/blue_button_bg.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/error-message.gif">
+      <publishTime>01/24/2012 12:34:56</publishTime>
+    </File>
+    <File Include="Content/images/fileuploader-loading.gif">
+      <publishTime>05/14/2012 18:55:54</publishTime>
+    </File>
+    <File Include="Content/images/google-maps.gif">
+      <publishTime>01/24/2012 12:34:56</publishTime>
+    </File>
+    <File Include="Content/images/grey_button_bg.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/grid_header_back.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-blacklist.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-catalog.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-configuration.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-content.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-customers.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-dashboard.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-help.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-help.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-news.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-promotions.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-sales.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-stat1.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-system.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/ico-warnings.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/logo.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/success-message.gif">
+      <publishTime>01/24/2012 12:34:56</publishTime>
+    </File>
+    <File Include="Content/images/throbber-synchronizing.gif">
+      <publishTime>04/18/2012 17:37:06</publishTime>
+    </File>
+    <File Include="Content/images/warnings-ajax-loader.gif">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/warnings-cross.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/warnings-tick.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/images/warnings-warning.png">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Content/styles.css">
+      <publishTime>07/25/2013 11:11:45</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/24/2013 18:48:10</publishTime>
+    </File>
+    <File Include="Scripts/admin.common.js">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Scripts/farbtastic.js">
+      <publishTime>12/16/2012 16:58:54</publishTime>
+    </File>
+    <File Include="Scripts/fileuploader.js">
+      <publishTime>06/22/2012 11:39:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1-vsdoc.js">
+      <publishTime>01/20/2013 11:16:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>01/20/2013 11:16:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>01/20/2013 11:16:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery.tmpl.min.js">
+      <publishTime>01/24/2012 12:34:56</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.js">
+      <publishTime>01/20/2013 11:15:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
+      <publishTime>01/20/2013 11:15:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>01/20/2013 11:15:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>01/20/2013 11:15:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>01/20/2013 11:15:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>01/20/2013 11:15:33</publishTime>
+    </File>
+    <File Include="sitemap.config">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/ActivityLog/ListLogs.cshtml">
+      <publishTime>04/01/2013 15:35:54</publishTime>
+    </File>
+    <File Include="Views/ActivityLog/ListTypes.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Affiliate/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Affiliate/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Affiliate/List.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Affiliate/_CreateOrUpdate.cshtml">
+      <publishTime>06/10/2012 13:24:32</publishTime>
+    </File>
+    <File Include="Views/Blog/Comments.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Blog/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Blog/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Blog/List.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Blog/_CreateOrUpdate.cshtml">
+      <publishTime>07/23/2013 21:44:14</publishTime>
+    </File>
+    <File Include="Views/Campaign/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Campaign/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Campaign/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Campaign/_CreateOrUpdate.cshtml">
+      <publishTime>08/02/2012 11:03:14</publishTime>
+    </File>
+    <File Include="Views/Category/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Category/Edit.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Category/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Category/ProductAddPopup.cshtml">
+      <publishTime>06/28/2013 18:41:23</publishTime>
+    </File>
+    <File Include="Views/Category/Tree.cshtml">
+      <publishTime>12/23/2012 19:33:11</publishTime>
+    </File>
+    <File Include="Views/Category/_CreateOrUpdate.cshtml">
+      <publishTime>07/10/2013 11:25:59</publishTime>
+    </File>
+    <File Include="Views/CheckoutAttribute/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/CheckoutAttribute/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/CheckoutAttribute/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/CheckoutAttribute/ValueCreatePopup.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/CheckoutAttribute/ValueEditPopup.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/CheckoutAttribute/_CreateOrUpdate.cshtml">
+      <publishTime>12/17/2012 14:46:29</publishTime>
+    </File>
+    <File Include="Views/CheckoutAttribute/_CreateOrUpdateValue.cshtml">
+      <publishTime>12/17/2012 14:41:02</publishTime>
+    </File>
+    <File Include="Views/Common/LanguageSelector.cshtml">
+      <publishTime>06/15/2012 13:37:34</publishTime>
+    </File>
+    <File Include="Views/Common/Maintenance.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Common/SeNames.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Common/SystemInfo.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Common/Warnings.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Country/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Country/Edit.cshtml">
+      <publishTime>02/14/2013 10:17:24</publishTime>
+    </File>
+    <File Include="Views/Country/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Country/StateCreatePopup.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Country/StateEditPopup.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Country/_CreateOrUpdate.cshtml">
+      <publishTime>09/07/2012 11:50:24</publishTime>
+    </File>
+    <File Include="Views/Country/_CreateOrUpdateState.cshtml">
+      <publishTime>10/23/2011 18:19:12</publishTime>
+    </File>
+    <File Include="Views/Currency/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Currency/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Currency/List.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Currency/_CreateOrUpdate.cshtml">
+      <publishTime>07/10/2013 12:19:33</publishTime>
+    </File>
+    <File Include="Views/Customer/AddressCreate.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Customer/AddressEdit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Customer/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Customer/Edit.cshtml">
+      <publishTime>02/14/2013 10:17:22</publishTime>
+    </File>
+    <File Include="Views/Customer/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Customer/ReportRegisteredCustomers.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/Customer/Reports.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Customer/_CreateOrUpdate.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Customer/_CreateOrUpdateAddress.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/Customer/_ReportBestCustomersByNumberOfOrders.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Customer/_ReportBestCustomersByOrderTotal.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/CustomerRole/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/CustomerRole/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/CustomerRole/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/CustomerRole/_CreateOrUpdate.cshtml">
+      <publishTime>10/02/2012 11:19:24</publishTime>
+    </File>
+    <File Include="Views/Discount/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Discount/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Discount/List.cshtml">
+      <publishTime>11/05/2012 15:47:35</publishTime>
+    </File>
+    <File Include="Views/Discount/_CreateOrUpdate.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/EmailAccount/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/EmailAccount/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/EmailAccount/List.cshtml">
+      <publishTime>06/05/2013 19:40:21</publishTime>
+    </File>
+    <File Include="Views/EmailAccount/_CreateOrUpdate.cshtml">
+      <publishTime>10/23/2012 14:46:42</publishTime>
+    </File>
+    <File Include="Views/ExternalAuthentication/ConfigureMethod.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/ExternalAuthentication/Methods.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Forum/CreateForum.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Forum/CreateForumGroup.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Forum/EditForum.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Forum/EditForumGroup.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Forum/List.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Forum/_CreateOrUpdateForum.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Forum/_CreateOrUpdateForumGroup.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/GiftCard/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/GiftCard/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/GiftCard/List.cshtml">
+      <publishTime>12/12/2012 14:06:17</publishTime>
+    </File>
+    <File Include="Views/GiftCard/_CreateOrUpdate.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Home/NopCommerceNews.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Language/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Language/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Language/List.cshtml">
+      <publishTime>06/05/2013 19:44:38</publishTime>
+    </File>
+    <File Include="Views/Language/Resources.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Language/_CreateOrUpdate.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Log/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Log/View.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Manufacturer/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Manufacturer/Edit.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Manufacturer/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Manufacturer/ProductAddPopup.cshtml">
+      <publishTime>06/28/2013 18:42:11</publishTime>
+    </File>
+    <File Include="Views/Manufacturer/_CreateOrUpdate.cshtml">
+      <publishTime>07/10/2013 11:26:08</publishTime>
+    </File>
+    <File Include="Views/Measure/Dimensions.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Measure/EditorTemplates/Decimal8.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/Measure/Weights.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/MessageTemplate/Edit.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/MessageTemplate/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/MessageTemplate/_CreateOrUpdate.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/NetAdvImage/Index.cshtml">
+      <publishTime>01/20/2013 11:11:32</publishTime>
+    </File>
+    <File Include="Views/News/Comments.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/News/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/News/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/News/List.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/News/_CreateOrUpdate.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/NewsLetterSubscription/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/OnlineCustomer/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Order/AddProductToOrder.cshtml">
+      <publishTime>06/28/2013 18:47:46</publishTime>
+    </File>
+    <File Include="Views/Order/AddProductToOrderDetails.cshtml">
+      <publishTime>06/28/2013 20:52:50</publishTime>
+    </File>
+    <File Include="Views/Order/AddressEdit.cshtml">
+      <publishTime>08/01/2012 19:28:44</publishTime>
+    </File>
+    <File Include="Views/Order/AddShipment.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Order/BestsellersBriefReportByAmount.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Order/BestsellersBriefReportByQuantity.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Order/BestsellersReport.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Order/Edit.cshtml">
+      <publishTime>06/29/2013 17:49:23</publishTime>
+    </File>
+    <File Include="Views/Order/List.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Order/NeverSoldReport.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Order/OrderAverageReport.cshtml">
+      <publishTime>07/05/2013 15:17:17</publishTime>
+    </File>
+    <File Include="Views/Order/OrderIncompleteReport.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/Order/PartiallyRefundOrderPopup.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Order/ShipmentDetails.cshtml">
+      <publishTime>06/29/2013 17:49:23</publishTime>
+    </File>
+    <File Include="Views/Order/ShipmentList.cshtml">
+      <publishTime>07/15/2013 17:35:50</publishTime>
+    </File>
+    <File Include="Views/Order/UploadLicenseFilePopup.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Order/_CreateOrUpdateAddress.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/Order/_OrderDetails.Billing.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Order/_OrderDetails.Info.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Order/_OrderDetails.Notes.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Order/_OrderDetails.Products.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Order/_OrderDetails.Shipping.cshtml">
+      <publishTime>07/15/2013 17:48:50</publishTime>
+    </File>
+    <File Include="Views/Order/_ProductAddAttributes.cshtml">
+      <publishTime>12/16/2012 16:01:20</publishTime>
+    </File>
+    <File Include="Views/Order/_ProductAddGiftCardInfo.cshtml">
+      <publishTime>02/18/2012 08:49:22</publishTime>
+    </File>
+    <File Include="Views/Payment/ConfigureMethod.cshtml">
+      <publishTime>05/30/2012 12:15:34</publishTime>
+    </File>
+    <File Include="Views/Payment/Methods.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Plugin/ConfigureMiscPlugin.cshtml">
+      <publishTime>05/30/2012 12:16:34</publishTime>
+    </File>
+    <File Include="Views/Plugin/EditPopup.cshtml">
+      <publishTime>08/01/2012 19:29:19</publishTime>
+    </File>
+    <File Include="Views/Plugin/List.cshtml">
+      <publishTime>07/25/2013 11:14:33</publishTime>
+    </File>
+    <File Include="Views/Plugin/_CreateOrUpdatePlugin.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Poll/Create.cshtml">
+      <publishTime>08/01/2012 19:12:31</publishTime>
+    </File>
+    <File Include="Views/Poll/Edit.cshtml">
+      <publishTime>08/01/2012 19:12:31</publishTime>
+    </File>
+    <File Include="Views/Poll/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Poll/_CreateOrUpdate.cshtml">
+      <publishTime>09/07/2012 11:57:47</publishTime>
+    </File>
+    <File Include="Views/Product/AddAttributeCombinationPopup.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/AssociatedProductAddPopup.cshtml">
+      <publishTime>06/28/2013 18:47:03</publishTime>
+    </File>
+    <File Include="Views/Product/AssociateProductToAttributeValuePopup.cshtml">
+      <publishTime>07/08/2013 11:20:22</publishTime>
+    </File>
+    <File Include="Views/Product/BulkEdit.cshtml">
+      <publishTime>06/28/2013 18:54:14</publishTime>
+    </File>
+    <File Include="Views/Product/Create.cshtml">
+      <publishTime>08/01/2012 19:13:13</publishTime>
+    </File>
+    <File Include="Views/Product/CrossSellProductAddPopup.cshtml">
+      <publishTime>06/28/2013 18:47:08</publishTime>
+    </File>
+    <File Include="Views/Product/Edit.cshtml">
+      <publishTime>09/24/2012 18:46:48</publishTime>
+    </File>
+    <File Include="Views/Product/EditAttributeValues.cshtml">
+      <publishTime>07/08/2013 11:33:01</publishTime>
+    </File>
+    <File Include="Views/Product/EditorTemplates/AttributeControlType.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/EditorTemplates/ProductAttribute.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/EditorTemplates/ProductCategory.cshtml">
+      <publishTime>07/25/2013 16:38:13</publishTime>
+    </File>
+    <File Include="Views/Product/EditorTemplates/ProductManufacturer.cshtml">
+      <publishTime>06/30/2013 15:12:44</publishTime>
+    </File>
+    <File Include="Views/Product/EditorTemplates/TierPriceCustomer.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/EditorTemplates/TierPriceStore.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/EditProductTag.cshtml">
+      <publishTime>08/01/2012 19:30:19</publishTime>
+    </File>
+    <File Include="Views/Product/List.cshtml">
+      <publishTime>07/12/2013 16:33:00</publishTime>
+    </File>
+    <File Include="Views/Product/LowStockReport.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/ProductAttributeValueCreatePopup.cshtml">
+      <publishTime>07/08/2013 10:49:04</publishTime>
+    </File>
+    <File Include="Views/Product/ProductAttributeValueEditPopup.cshtml">
+      <publishTime>07/08/2013 10:49:04</publishTime>
+    </File>
+    <File Include="Views/Product/ProductTags.cshtml">
+      <publishTime>10/15/2012 13:10:19</publishTime>
+    </File>
+    <File Include="Views/Product/RelatedProductAddPopup.cshtml">
+      <publishTime>06/28/2013 18:46:57</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.Acl.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.AssociatedProducts.cshtml">
+      <publishTime>07/06/2013 13:32:31</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.Categories.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.CrossSells.cshtml">
+      <publishTime>07/06/2013 13:32:40</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.Discounts.cshtml">
+      <publishTime>06/29/2013 14:23:49</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.Info.cshtml">
+      <publishTime>07/05/2013 18:20:04</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.Manufacturers.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.Pictures.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.ProductAttributes.cshtml">
+      <publishTime>07/19/2013 15:32:05</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.RelatedProducts.cshtml">
+      <publishTime>07/06/2013 13:32:25</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.SEO.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.SpecificationAttributes.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.Stores.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdate.TierPrices.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdateProductAttributeValue.cshtml">
+      <publishTime>07/08/2013 10:54:00</publishTime>
+    </File>
+    <File Include="Views/Product/_CreateOrUpdateProductTag.cshtml">
+      <publishTime>05/07/2012 09:35:08</publishTime>
+    </File>
+    <File Include="Views/Product/_ProductAttributes.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/ProductAttribute/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/ProductAttribute/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/ProductAttribute/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/ProductAttribute/_CreateOrUpdate.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/ProductReview/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/ProductReview/List.cshtml">
+      <publishTime>07/09/2013 12:37:34</publishTime>
+    </File>
+    <File Include="Views/ProductReview/_CreateOrUpdate.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/QueuedEmail/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/QueuedEmail/List.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/QueuedEmail/_CreateOrUpdate.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/RecurringPayment/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/RecurringPayment/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/RecurringPayment/_CreateOrUpdate.cshtml">
+      <publishTime>08/01/2012 14:25:13</publishTime>
+    </File>
+    <File Include="Views/ReturnRequest/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/ReturnRequest/List.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/ReturnRequest/_CreateOrUpdate.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/ScheduleTask/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Security/AccessDenied.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/Security/Permissions.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Setting/AllSettings.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/Blog.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/Catalog.cshtml">
+      <publishTime>06/26/2013 11:32:21</publishTime>
+    </File>
+    <File Include="Views/Setting/CustomerUser.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/EditorTemplates/Store.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/Forum.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/GeneralCommon.cshtml">
+      <publishTime>07/25/2013 18:51:33</publishTime>
+    </File>
+    <File Include="Views/Setting/Media.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/Setting/News.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/Order.cshtml">
+      <publishTime>07/17/2013 11:30:41</publishTime>
+    </File>
+    <File Include="Views/Setting/RewardPoints.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/Shipping.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/ShoppingCart.cshtml">
+      <publishTime>05/14/2013 00:58:30</publishTime>
+    </File>
+    <File Include="Views/Setting/StoreScopeConfiguration.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Setting/Tax.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Shared/Delete.cshtml">
+      <publishTime>04/19/2012 11:04:14</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Address.cshtml">
+      <publishTime>10/25/2012 19:15:04</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Date.cshtml">
+      <publishTime>07/06/2011 15:39:54</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/DateNullable.cshtml">
+      <publishTime>07/06/2011 15:39:56</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/DateTime.cshtml">
+      <publishTime>07/06/2011 15:39:56</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/DateTimeNullable.cshtml">
+      <publishTime>10/24/2011 12:30:04</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Decimal.cshtml">
+      <publishTime>07/06/2011 15:39:56</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/DecimalNullable.cshtml">
+      <publishTime>10/24/2011 11:24:28</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Double.cshtml">
+      <publishTime>07/06/2011 15:39:56</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Download.cshtml">
+      <publishTime>11/08/2012 09:25:31</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Int32.cshtml">
+      <publishTime>07/06/2011 15:39:56</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Picture.cshtml">
+      <publishTime>11/08/2012 09:25:31</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/RichEditor.cshtml">
+      <publishTime>11/22/2012 10:50:31</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/RichEditor.Telerik.cshtml">
+      <publishTime>11/25/2011 09:18:58</publishTime>
+    </File>
+    <File Include="Views/Shared/EditorTemplates/Time.cshtml">
+      <publishTime>07/06/2011 15:39:56</publishTime>
+    </File>
+    <File Include="Views/Shared/Menu.cshtml">
+      <publishTime>07/14/2013 21:09:57</publishTime>
+    </File>
+    <File Include="Views/Shared/Notifications.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Shared/_AdminLayout.cshtml">
+      <publishTime>07/05/2013 15:14:36</publishTime>
+    </File>
+    <File Include="Views/Shared/_AdminPopupLayout.cshtml">
+      <publishTime>10/25/2012 20:48:19</publishTime>
+    </File>
+    <File Include="Views/Shipping/ConfigureProvider.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Shipping/CreateMethod.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Shipping/EditMethod.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Shipping/Methods.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Shipping/Providers.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Shipping/Restrictions.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Shipping/_CreateOrUpdateMethod.cshtml">
+      <publishTime>10/23/2011 19:45:18</publishTime>
+    </File>
+    <File Include="Views/ShoppingCart/CurrentCarts.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/ShoppingCart/CurrentWishlists.cshtml">
+      <publishTime>06/19/2013 19:13:53</publishTime>
+    </File>
+    <File Include="Views/SpecificationAttribute/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/SpecificationAttribute/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/SpecificationAttribute/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/SpecificationAttribute/OptionCreatePopup.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/SpecificationAttribute/OptionEditPopup.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/SpecificationAttribute/_CreateOrUpdate.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/SpecificationAttribute/_CreateOrUpdateOption.cshtml">
+      <publishTime>07/21/2011 14:06:38</publishTime>
+    </File>
+    <File Include="Views/Store/Create.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Store/Edit.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Store/List.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Store/_CreateOrUpdate.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Tax/Categories.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Tax/ConfigureProvider.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Tax/Providers.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Topic/Create.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Topic/Edit.cshtml">
+      <publishTime>10/03/2012 17:16:14</publishTime>
+    </File>
+    <File Include="Views/Topic/List.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Topic/_CreateOrUpdate.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Vendor/Create.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Vendor/Edit.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Vendor/List.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Vendor/_CreateOrUpdate.cshtml">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>05/14/2013 00:58:31</publishTime>
+    </File>
+    <File Include="Views/Widget/ConfigureWidget.cshtml">
+      <publishTime>06/07/2012 22:59:12</publishTime>
+    </File>
+    <File Include="Views/Widget/List.cshtml">
+      <publishTime>06/15/2013 22:10:43</publishTime>
+    </File>
+    <File Include="Views/Widget/WidgetsByZone.cshtml">
+      <publishTime>06/08/2012 12:00:04</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>07/06/2011 15:39:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/12/2013 18:18:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

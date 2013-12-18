@@ -1,0 +1,6 @@
+﻿<div class="headermenu">
+    @Html.Action("SearchBox", "Catalog")
+    @Html.Action("Menu", "Common")
+</div>
+ @Html.Action("WidgetsByZone", "Widget", new { widgetZone = "header_menu_before" })
+ @Html.Action("WidgetsByZone", "Widget", new { widgetZone = "header_menu_after" })
